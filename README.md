@@ -1,9 +1,6 @@
 # LLM-Assisted Dependency Vulnerability Remediation in DevSecOps Pipelines
 
 ## Master Thesis Research Repository
-**Researcher:** Santosh Nagaraj  
-**Institution:** SRH Berlin University of Applied Sciences  
-**Supervisor:** Knut Haufe  
 
 ## Objective
 Evaluate the effectiveness of Large Language Models in remediating software dependency vulnerabilities detected in real-world applications.
